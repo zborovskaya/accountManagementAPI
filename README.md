@@ -44,7 +44,7 @@ spring.datasource.driver-class-name=org.postgresql.Driver
 ### Эндпоинт:
 
 ```
-POST /api/auth/login
+POST [/api/auth/login](http://localhost:8080/api/auth/login)
 ```
 
 ### Пример запроса:
