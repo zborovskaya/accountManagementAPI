@@ -4,7 +4,6 @@ import by.zborovskaya.accountManagementAPI.dto.UserDto;
 import by.zborovskaya.accountManagementAPI.model.EmailData;
 import by.zborovskaya.accountManagementAPI.model.PhoneData;
 import by.zborovskaya.accountManagementAPI.model.User;
-import org.springframework.stereotype.Component;
 
 import java.math.BigDecimal;
 import java.util.Collections;
