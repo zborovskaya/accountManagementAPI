@@ -68,3 +68,5 @@ POST [/api/auth/login](http://localhost:8080/api/auth/login)
 
 * `identifier` может быть email или телефон
 * JWT-токен вставляется в `Authorization: Bearer <token>`
+*
+
